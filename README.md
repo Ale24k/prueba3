@@ -1,4 +1,4 @@
-# Proyecto Redes
+# Cuaderno del proyecto
 ## Introducción ##
 ### Presentación del problema general ###
 El presente proyecto se enfoca en el campo del aprendizaje automático y tiene como objetivo desarrollar un pipeline de preprocesamiento y modelado utilizando el algoritmo XGBoost. Se aborda el problema de determinar si una persona gana más de 50K al año utilizando información demográfica y laboral disponible en el dataset "Adult".
